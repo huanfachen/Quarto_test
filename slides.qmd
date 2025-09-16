@@ -8,6 +8,8 @@ date-as-string: "1st August 2024"
 other: "Any other information"
 from: markdown+emoji
 format: revealjs
+filters:
+ - code-visibility
 ---
 
 ## Hello there :wave: {transition="convex-in none-out" transition-speed="fast"}
