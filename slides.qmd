@@ -12,7 +12,16 @@ format: revealjs
 
 ## Hello there :wave: {transition="convex-in none-out" transition-speed="fast"}
 
+```{python}
+#| echo: true
+#| output: false   # show code only here
+import pandas as pd 
 
+boston = load_boston()
+print(boston.shape)
+```
+
+<!-- 
 ```{r, echo=FALSE}
 # This makes the fonts play nicely within the figures
 knitr::opts_chunk$set(dev = "ragg_png")
@@ -665,4 +674,4 @@ That's it. Happy presenting!
 
 :::
 
-:::
+::: -->
