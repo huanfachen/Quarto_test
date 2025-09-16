@@ -16,7 +16,7 @@ format: revealjs
 ```{python}
 #| echo: true
 #| output: true   # show code only here
-import pandas as pd 
+# import pandas as pd 
 
-print(1)
+print('Hello world! I am quarto!')
 ```
