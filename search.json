@@ -1,0 +1,19 @@
+[
+  {
+    "objectID": "slides.html#hello-there",
+    "href": "slides.html#hello-there",
+    "title": "A Title for my Slides",
+    "section": "Hello there 👋",
+    "text": "Hello there 👋\n\n# import pandas as pd \n\nprint('Hello world! I am quarto!')\n\nHello world! I am quarto!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This template is intended to help you get started with CASA’s in-house ‘Quarto’ style. Note that we can do useful things like inserting a module name Module Name (casaXXXX) dynamically. This can be especially useful for submission deadlines which are stated on multiple pages of a web site.\nWe also have a presentation style that you can use.\nEverywhere in-line code execution is supported, as are included QMD files and other tricks to make it easy to re-use content, streamline maintenance of your module’s materials, and keep everything nice and clean.",
+    "crumbs": [
+      "Step 1."
+    ]
+  }
+]
