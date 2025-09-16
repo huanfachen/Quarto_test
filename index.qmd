@@ -1,4 +1,5 @@
 ---
+format: html
 title: "Welcome"
 author: "Your Name"
 date: last-modified
